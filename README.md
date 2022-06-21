@@ -1,10 +1,8 @@
 ## SOBRE MIM ##
 
-- 👋 Olá, eu sou Emily Coelho, sou estudante da diciplina de PENSAMENTO COMPUTACI0NAL do Colégio Estaduteal São Mateus
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
-
+- 👋 Olá, meu nome é Emily Coelho, sou estudante do colégio Estadual São Mateus
+- 👀 Meu e-mail de contato é @emily.lepinski.coelho@escola.pr.gov.br
+- 🌱Tenho alguns conhecimentos, em lingu no scratch, e cada dia mais aperfeiçoando isso.
+- 📫 SMS-PR
 
 
